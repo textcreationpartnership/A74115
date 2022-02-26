@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vray portraict du pere du peuple. Et le grand support de la France. A agé de 75 ans.</title>
+            <author>Pelletier, Pierre, fl. 1610.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74115</idno>
+            <idno type="STC">Thomason 669.f.13[34]</idno>
+            <idno type="STC">ESTC R211022</idno>
+            <idno type="EEBO-CITATION">99869761</idno>
+            <idno type="PROQUEST">99869761</idno>
+            <idno type="VID">162930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162930)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Le vray portraict du pere du peuple. Et le grand support de la France. A agé de 75 ans.</title>
+                  <author>Pelletier, Pierre, fl. 1610.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>De l'imprimerie de Claude Morlot,</publisher>
+                  <pubPlace>A Paris :</pubPlace>
+                  <date>le 15. Octobre 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Pierre Pelletier.</note>
+                  <note>Consists of two sonnets: the first has title 'La France a monsieur De Broussel, conseiller du Roy en sa Cour de Parlement de Paris'; the second has title 'A monsieur De Broussel, conseiller du Roy en sa Cour de Parlement de Paris'.</note>
+                  <note>With engraved portrait of Pierre de Broussel.</note>
+                  <note>Both sonnets signed: DV Pelletier.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broussel, Pierre --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162930:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <p>
+               <figure>
+                  <head>LE VRAY PORTRAICT DV PERE DV Peuple. ETLE GRAND SVPPORT DE de la France.</head>
+                  <p>Aagé de 75. ans.</p>
+                  <p>Pierre de Broussel<lb/>
+Conseiller du Roy en<lb/>
+sa Cour de Parlement de.</p>
+                  <figure>
+                     <figDesc>blazon or coat of arms</figDesc>
+                  </figure>
+                  <figDesc>portrait of Pierre de Broussel</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="sonnet">
+            <head>LA FRANCE A MONSIEVR DE BROVSSEL CONSEILLER DV ROY EN SA COVR DE PARLEMENT de Paris.</head>
+            <head>SONNET.</head>
+            <lg>
+               <l>LA plainte, grace aux Dieux ne m'eſt plus defenduë</l>
+               <l>Et c'eſt l'vnique bien qui me peut conſoler,</l>
+               <l>Ie puis dire auiourd huy qsue la voix m'eſt renduë:</l>
+               <l>Car ſans toy de Brouſſel ie ne ſçaurois parler.</l>
+            </lg>
+            <lg>
+               <l>La longueur de mes maux m'a ſi fort confonduë,</l>
+               <l>Que ſans pouuoir crier ie me voyois voler:</l>
+               <l>Sans toy, noble Caton, apres qu'on m'a tonduë</l>
+               <l>Au gré des Financiers on m'alloit immoler.</l>
+            </lg>
+            <lg>
+               <l>Sans ma ioye il n'eſt rien de ſi grand queta gloire,</l>
+               <l>Il faut qu'en lettres d'or on trace dans l'Hiſtoire,</l>
+               <l>Iuſques cùde ton coeur le zele s'eſt porté.</l>
+            </lg>
+            <lg>
+               <l>Cette illuſtre action ne marque point de charmes,</l>
+               <l>Et pour le mieux apprendre à la poſterité,</l>
+               <l>Qu'on ſçache que pour toy tout Paris prit les armes.</l>
+            </lg>
+            <closer>
+               <signed>DV PELLETIER.</signed>
+            </closer>
+         </div>
+         <div type="sonnet">
+            <head>A MONSIEVR DE BROVSSEL, CONSEILLER DV ROY EN SA COVR DE PARLEMENT de Paris.</head>
+            <head>SONNET.</head>
+            <lg>
+               <l>LA plus haute Vertu doit ceder à ta tienne</l>
+               <l>Et ie n'en connoy point qu'on luy puiſſe égaler;</l>
+               <l>Des Grecs &amp; des Romains la ſageſſe ancienne,</l>
+               <l>Reuit en ta Perſonne, &amp; te vient ſignaler.</l>
+            </lg>
+            <lg>
+               <l>Toutefois elle prend le titre de Chreſtienne,</l>
+               <l>Et chacun eſt d'accord qu'on ne peut l'éblanler;</l>
+               <l>Telle ne fut jamais cetre vertu Payenne,</l>
+               <l>De celuy qui pour Rome a voulu s'immoler.</l>
+            </lg>
+            <lg>
+               <l>Vn Illuſtre Conſul mourut jadis pour Rome,</l>
+               <l>Et le Tibre pleura la mort de ce grand homme,</l>
+               <l>Qui voulut que ſon ſang payât ſa liberté.</l>
+            </lg>
+            <lg>
+               <l>La Fra<g ref="char:cmbAbbrStroke">̄</g>ce, grace aux Dieux, quoy qu'en diſe le Tibre,</l>
+               <l>Parle plus hautement de ſa felicité,</l>
+               <l>Puis que De Brouſſel vit, &amp; qus la France eſt libre.</l>
+            </lg>
+            <closer>
+               <signed>DV PELLETIER</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>A PARIS, Del'Imprimerie de Claude Morlor, le 15 Octobre 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
